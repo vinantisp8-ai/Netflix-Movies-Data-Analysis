@@ -13,6 +13,7 @@ The analysis includes data cleaning, exploratory data analysis (EDA), and multip
 
 # 🔍 Key Analysis
 1. movie realese year analysis
+2. Movie Rating Distribution
 2.Movie rating distribution
 3.Movies added to Netflix over time
 4.Rating categories
