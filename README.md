@@ -64,29 +64,31 @@ The objective is to discover meaningful patterns and relationships in the datase
 
 # 🔍 Key Insights
 # The analysis provides insights into:
-Distribution and variation of movie popularity and ratings.
-The relationship between movie budgets and revenues.
-Factors associated with movie popularity and financial performance.
-Genre-wise differences in ratings and popularity.
-Countries producing a large number of movies.
-Country-wise financial and rating patterns.
-Language-wise movie distribution and performance.
-Directors associated with higher average ratings and profits.
-Release trends across major movie-producing countries.
-📁 Dataset
-The dataset contains information related to Netflix movies, including attributes such as:
-Movie Title
-Genre
-Rating
-Popularity
-Budget
-Revenue
-Profit
-Country
-Language
-Director
-Release Date/Year
-🚀 Project Outcome
+1)Distribution and variation of movie popularity and ratings.
+2)The relationship between movie budgets and revenues.
+3)Factors associated with movie popularity and financial performance.
+4)Genre-wise differences in ratings and popularity.
+5)Countries producing a large number of movies.
+6)Country-wise financial and rating patterns.
+7)Language-wise movie distribution and performance.
+8)Directors associated with higher average ratings and profits.
+9)Release trends across major movie-producing countries.
+
+ # 📁 Dataset
+ The dataset contains information related to Netflix movies, including attributes such as:
+1.Movie Title
+2.Genre
+3.Rating
+4.Popularity
+5.Budget
+6.Revenue
+7.Profit
+8.Country
+9.Language
+10.Director
+11.Release Date/Year
+
+# 🚀 Project Outcome
 This project demonstrates the practical application of Python-based Exploratory Data Analysis to transform raw movie data into meaningful insights.
 It showcases skills in data cleaning, data manipulation, statistical analysis, visualization, and insight generation.
  
