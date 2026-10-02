@@ -12,7 +12,7 @@ The analysis includes data cleaning, exploratory data analysis (EDA), and multip
 5)Jupyter Notebook
 
 # 🔍 Key Analysis
-1.Movie release year analysis
+1. movie realese year analysis
 2.Movie rating distribution
 3.Movies added to Netflix over time
 4.Rating categories
